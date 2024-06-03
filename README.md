@@ -1,5 +1,5 @@
+### start the server 
 docker-compose up
-
 
 # connect to kafka 
 docker-compose exec kafka /bin/bash
