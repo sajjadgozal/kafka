@@ -1,4 +1,4 @@
-### start the server 
+# start the server 
 docker-compose up
 
 # connect to kafka 
